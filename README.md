@@ -6,7 +6,7 @@ AI chatbots offer a transformative solution to the communication challenges face
 *The code reads a JSON file named 'data.json' that contains intents for the chatbot. Each intent consists of an input message and a corresponding response.
 *The get function takes a user's message as input and searches through the loaded intents to find a matching response.
 *The speak_message function takes a message as input and uses the pyttsx3 library to convert the message into speech.he user is prompted to speak something, and their spoken input is captured using a microphone with the speech_recognition library.
-*The get function is called with the user's input to generate a response from the bot.
+*The get function is called with the user's input to generate a response.
 
 ## TECHSTACK AND LIBRARIES USED :
 -CSS
